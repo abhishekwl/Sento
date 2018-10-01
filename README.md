@@ -1,8 +1,6 @@
 # Sento
 SenTo
 
-Developed by Abhishek (@warlock1437)
-
 Sentiment Analysis on text by performing data mining operations on huge amount of data by extracting tweets for a certain query and then performing sentiment analysis with the help of a data corpus on every tweet to know how biased people are to a certain topic on Twitter.
 
 Usage:
